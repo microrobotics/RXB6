@@ -1,0 +1,2 @@
+# RXB6
+RXB6 RF RX/TX Pair - 433Mhz
